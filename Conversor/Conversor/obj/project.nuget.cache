@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PSAZt0L42G2YLLkFDVmgDJkmYNIRQ2/ZNaTLmMQpqes7eorQI0vZIq2c8JhD8ip2m0rtij4KMDRtqHEH/ngSUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RafaelMoreno\\Documents\\programacion\\c#\\Xamarin\\Conversor\\Conversor\\Conversor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RafaelMoreno\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\RafaelMoreno\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\RafaelMoreno\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\RafaelMoreno\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\RafaelMoreno\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
