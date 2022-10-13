@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Conversor.Views.Menuprincipal">
+    <ContentPage.Content>
+        <StackLayout Background="#FEE6B9" >
+            <Label Text="Conversor"
+                VerticalOptions="Start"
+                FontSize="40"
+                FontAttributes="Bold"
+                TextColor="Black"
+                   Margin="0,20,0,0"                 
+                HorizontalOptions="CenterAndExpand" />
+            <Frame VerticalOptions="FillAndExpand"
+                   Margin="20"
+                   CornerRadius="20"
+                   HasShadow="False"
+                   >
+                <StackLayout>
+                    <Image  Source="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nacionflix.com%2F__export%2F1604176458273%2Fsites%2Fdebate%2Fimg%2F2020%2F10%2F31%2F5_pelxculas_de_terror_zombi_para_ver_en_netflix_este_halloween.jpg_242310155.jpg"/>
+                    <Label Text="(cm) a (m)"
+                           FontAttributes="Bold"
+                           FontSize="40"
+                           />
+                    <Button Text="Iniciar"
+                            TextTransform="None"/>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

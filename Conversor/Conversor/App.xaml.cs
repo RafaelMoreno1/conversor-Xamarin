@@ -14,7 +14,8 @@ namespace Conversor
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
-            MainPage = new AppShell();
+            // MainPage = new AppShell();
+            MainPage = new Menuprincipal();
         }
 
         protected override void OnStart()
