@@ -1,0 +1,1 @@
+C:\Users\RafaelMoreno\Documents\programacion\c#\Xamarin\conversorImagenes\conversorImagenes.UWP\conversorImagenes.UWP.csproj;x86

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Conversor.Views.Convertir">
+    <Grid Background="#FDE07F">
+        <StackLayout >
+            <Image Source="https://ibb.co/vB6ZcNn"/>
+            <Frame>
+            <Entry Keyboard="Numeric"/>
+            </Frame>
+        </StackLayout>
+        
+    </Grid>
+</ContentPage>

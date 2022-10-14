@@ -19,3 +19,4 @@ C:\Users\RafaelMoreno\Documents\programacion\c#\Xamarin\Conversor\Conversor\obj\
 C:\Users\RafaelMoreno\Documents\programacion\c#\Xamarin\Conversor\Conversor\obj\Debug\netstandard2.0\Conversor.pdb
 C:\Users\RafaelMoreno\Documents\programacion\c#\Xamarin\Conversor\Conversor\obj\Debug\netstandard2.0\ref\Conversor.dll
 C:\Users\RafaelMoreno\Documents\programacion\c#\Xamarin\Conversor\Conversor\obj\Debug\netstandard2.0\Views\Menuprincipal.xaml.g.cs
+C:\Users\RafaelMoreno\Documents\programacion\c#\Xamarin\Conversor\Conversor\obj\Debug\netstandard2.0\Views\Convertir.xaml.g.cs

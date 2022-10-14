@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sSYj3JpZ/jQucbFg1ZEjpL+D+6pjk0mIEAYS/OL+3MitTkML1TXyGvY7T1su0CI2hWz2CugyW0Hm7OIGnsXDpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RafaelMoreno\\Documents\\programacion\\c#\\Xamarin\\conversorImagenes\\conversorImagenes.iOS\\conversorImagenes.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RafaelMoreno\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\RafaelMoreno\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\RafaelMoreno\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
